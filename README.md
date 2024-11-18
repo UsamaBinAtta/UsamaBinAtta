@@ -9,11 +9,11 @@
 
 <br>
 
-- 🏆 Highlighted Achievement: [RAG-Q&A || LLaMA-2](https://github.com/UsamaBinAtta/LLaMA-based-Q-A-System)
+- 🏆 Highlighted Achievement: [RAG-Q&A || LLaMA-2](https://github.com/UsamaBinAtta/RAG-QnA-Contextual-Intelligence-with-LLaMA-2)
 
 - 🌟 Projects I'm Proud Of: [Bite Right](https://github.com/UsamaBinAtta/Bite-Right)
 
-- ✅ Completed Projects [SmartVision || Live Object Detection with COCO Integration](https://github.com/UsamaBinAtta/Object_Detection)
+- ✅ Completed Projects [SmartVision || Live Object Detection with COCO Integration](https://github.com/UsamaBinAtta/SmartVision-Live-Object-Detection-with-COCO-Integration)
 
 <br>
 
